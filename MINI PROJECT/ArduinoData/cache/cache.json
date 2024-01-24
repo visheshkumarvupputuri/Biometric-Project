@@ -1,0 +1,16 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\vishesh\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "75d3f603aa2507e22071bf82629810d3",
+    "md5" : "MD5:75d3f603aa2507e22071bf82629810d3",
+    "createdAt" : "2020-03-17T08:14:58.865",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-03-17T09:14:58.865"
+  } ]
+}
